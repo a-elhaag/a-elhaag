@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 **Hey there! I'm Anas** 🚀  
 
-<!--
-**a-elhaag/a-elhaag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my GitHub Profile!**  
 
-Here are some ideas to get you started:
+I'm a **Software Engineering Student** with expertise in **Artificial Intelligence**, **Blockchain**, **Cloud Computing**, **Solidity Development**, and a passion for building impactful projects. I love exploring new technologies, solving complex challenges, and pushing boundaries. 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Blockchain+Developer;Cloud+Computing+Expert;Solidity+Smart+Contracts;Passionate+Problem+Solver)
+
+</div>
+
+--- 
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![PlantUML](https://img.shields.io/badge/-PlantUML-005C97?style=flat-square&logo=plantuml&logoColor=white)
+
+</div>
+
+---
+
+## 📈 **GitHub Activity Graph:**  
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a-elhaag&theme=github-dark&hide_border=true)
+
+</div>
+
+---
+
+## 🎵 **Fun Facts About Me:**  
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=I+love+sci-fi+movies+like+Maze+Runner;Dark+atmospheric+music+is+my+vibe;I+enjoy+exploring+new+technologies;Always+curious+to+learn+more!)
+
+![Animation](https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif)
+
+</div>
+
+---
+
+## 📬 **How to Reach Me:**  
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anas%20Elhaag-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anaselhaag)  
+[![GitHub](https://img.shields.io/badge/GitHub-Anas%20Elhaag-black?style=flat-square&logo=github)](https://github.com/a-elhaag)
+
+</div>
+
+---
+
+<div align="center">
+  
+✨ *Curiosity fuels growth, and growth fuels innovation. Thanks for stopping by!* 🚀  
+
+![Footer Animation](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+
+</div>
