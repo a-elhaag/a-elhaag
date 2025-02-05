@@ -54,7 +54,6 @@ I'm a **Software Engineering Student** with expertise in **Artificial Intelligen
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anas%20Elhaag-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anaselhaag)  
-[![GitHub](https://img.shields.io/badge/GitHub-Anas%20Elhaag-black?style=flat-square&logo=github)](https://github.com/a-elhaag)
 
 </div>
 
