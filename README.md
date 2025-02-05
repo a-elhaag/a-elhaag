@@ -45,8 +45,6 @@ I'm a **Software Engineering Student** with expertise in **Artificial Intelligen
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=I+love+sci-fi+movies+like+Maze+Runner;Dark+atmospheric+music+is+my+vibe;I+enjoy+exploring+new+technologies;Always+curious+to+learn+more!)
 
-![Animation](https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif)
-
 </div>
 
 ---
@@ -64,8 +62,6 @@ I'm a **Software Engineering Student** with expertise in **Artificial Intelligen
 
 <div align="center">
   
-✨ *Curiosity fuels growth, and growth fuels innovation. Thanks for stopping by!* 🚀  
-
-![Footer Animation](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+### ✨ *Curiosity fuels growth, and growth fuels innovation. Thanks for stopping by!* 🚀  
 
 </div>
