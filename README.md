@@ -1,35 +1,49 @@
-# 👋 **Hey there! I'm Anas** 🚀  
+# 👋 **Hey there! I'm Anas** 🚀
 
 **Welcome to my GitHub Profile!**  
 
-I'm a **Software Engineering Student** with expertise in **Artificial Intelligence**, **Blockchain**, **Cloud Computing**, **Solidity Development**, and a passion for building impactful projects. I love exploring new technologies, solving complex challenges, and pushing boundaries. 🚀  
+I'm a **Software Engineering Student** specializing in **Cloud Computing**, **AI/ML**, and exploring the frontiers of **Quantum Computing**. I'm also **Microsoft Certified** in AI Cloud Associate. I love using **Next.js** & **React** (often deploying on **Vercel**) to build scalable, impactful projects. Learning new technologies and tackling complex problems is my passion!  
 
 ---
 
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Blockchain+Developer;Cloud+Computing+Expert;Solidity+Smart+Contracts;Passionate+Problem+Solver)
 
-</div>
-
---- 
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![PlantUML](https://img.shields.io/badge/-PlantUML-005C97?style=flat-square&logo=plantuml&logoColor=white)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=Cloud+Computing;AI%2FML;Quantum+Computing+Learner;React+%26+Next.js;Serverless+Functions)
 
 </div>
 
 ---
 
-## 📈 **GitHub Activity Graph:**  
+## 🔧 **Tech Stack & Skills**
+<div align="center">
+
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Q%23-512BD4?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Serverless-FF4500?style=flat-square&logo=serverless&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PlantUML-005C97?style=flat-square&logo=plantuml&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
+
+</div>
+
+
+---
+
+## 📚 **Currently Learning**
+- ⚛ **Quantum Computing with Q#**  
+- ☁ **Advanced Cloud Automation & Serverless Architectures**  
+- 🤖 **Building AI-powered Chatbots & LLMs**  
+
+---
+
+## 📈 **GitHub Activity Graph:**
 
 <div align="center">
 
@@ -39,28 +53,31 @@ I'm a **Software Engineering Student** with expertise in **Artificial Intelligen
 
 ---
 
-## 🎵 **Fun Facts About Me:**  
+## 🚀 **About Me**
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=435&lines=I+love+sci-fi+movies+like+Maze+Runner;Dark+atmospheric+music+is+my+vibe;I+enjoy+exploring+new+technologies;Always+curious+to+learn+more!)
-
-</div>
+- 🌐 **Cloud Computing**: Azure Certified AI Associate, building scalable solutions.  
+- 🧠 **AI & ML**: Developing intelligent applications with Python & popular ML frameworks.  
+- ⚛ **Quantum Computing**: Currently learning Q# and quantum fundamentals.  
+- ⚡ **Web Dev**: Proficient in React & Next.js, deploying on Vercel.  
+- 🛠️ **Serverless & DevOps**: Building and managing **serverless functions** on cloud platforms.  
+- 📖 **Blockchain (Studied)**: I have a background in blockchain but no longer actively work in the space.  
+- 💡 **Future Goals**: Dive deeper into advanced AI, quantum algorithms, and cloud automation.  
 
 ---
 
-## 📬 **How to Reach Me:**  
-
+## 🤝 **Let's Connect**  
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anas%20Elhaag-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anaselhaag)  
-
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)  
+  
 </div>
 
 ---
 
 <div align="center">
   
-### ✨ *Curiosity fuels growth, and growth fuels innovation. Thanks for stopping by!* 🚀  
+**Thank you for visiting my profile!**  
+
+**_Feel free to connect, collaborate, or ask any questions!_** 
 
 </div>
