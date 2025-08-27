@@ -16,6 +16,9 @@ I create real-world applications that combine **intelligent backends, cross-plat
 ## 🔧 Tech Stack
 <div align="center">
 
+## 🔧 Tech Stack
+<div align="center">
+
 <!-- Languages -->
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white"/>
@@ -23,16 +26,20 @@ I create real-world applications that combine **intelligent backends, cross-plat
 <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Q%23-000000?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=white"/>
 
 <!-- Frontend & Mobile -->
 <img src="https://img.shields.io/badge/Vue%203-000000?style=flat-square&logo=vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React%20Native-000000?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
 <!-- Backend -->
 <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20Functions-000000?style=flat-square&logo=azurefunctions&logoColor=white"/>
 
-<!-- Cloud -->
+<!-- Cloud & Deployment -->
 <img src="https://img.shields.io/badge/Azure-000000?style=flat-square&logo=microsoft-azure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-000000?style=flat-square&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
@@ -41,17 +48,22 @@ I create real-world applications that combine **intelligent backends, cross-plat
 <!-- Databases -->
 <img src="https://img.shields.io/badge/Neo4j-000000?style=flat-square&logo=neo4j&logoColor=white"/>
 
+<!-- AI Tools -->
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=graphql&logoColor=white"/>
+
 <!-- Blockchain -->
-<img src="https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=white"/>
 <img src="https://img.shields.io/badge/zkSync-000000?style=flat-square&logo=ethereum&logoColor=white"/>
 
 <!-- Tools -->
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=flat-square&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/PlantUML-000000?style=flat-square&logo=plantuml&logoColor=white"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
 
 </div>
+
 
 ---
 
