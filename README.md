@@ -33,19 +33,9 @@ ship llm systems end to end: web, mobile, cloud
 
 ### Toolbox
 
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React%20Native-000000?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue%203-000000?style=flat-square&logo=vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-000000?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Neo4j-000000?style=flat-square&logo=neo4j&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/React%20Native-000000?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Vue%203-000000?style=flat-square&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-000000?style=flat-square&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Neo4j-000000?style=flat-square&logo=neo4j&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
 <br>
 
@@ -53,7 +43,7 @@ ship llm systems end to end: web, mobile, cloud
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a-elhaag&theme=github-dark&hide_border=true)
+<img alt="GitHub contributions" src="https://ghchart.rshah.org/B8860B/a-elhaag" width="100%">
 
 </div>
 
