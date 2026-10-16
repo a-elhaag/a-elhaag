@@ -1,103 +1,73 @@
-# 👋 Hey, I'm Anas 🚀  
-
-**Software Engineer** building across the stack—mobile, web, cloud, and AI.  
-I create real-world applications that combine **intelligent backends, cross-platform UIs, and scalable cloud systems**.  
-
----
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=600&color=FFFFFF&center=true&vCenter=true&width=550&lines=Software+Engineer;AI+%26+Cloud+Developer;Cross+Platform+Mobile+Apps)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Anas Abuelhaag, Full-Stack AI Engineer" src="assets/banner-light.svg" width="100%">
+</picture>
 
 </div>
 
----
+```text
+$ whoami
+anas abuelhaag, software engineering student, ECU
+azure ai engineer (AI-102) / senior microsoft student ambassador
 
-## 🔧 Tech Stack
-<div align="center">
+$ cat focus.txt
+ship llm systems end to end: web, mobile, cloud
+```
 
-## 🔧 Tech Stack
-<div align="center">
+<br>
 
-<!-- Languages -->
+### Shipped
+
+|  |  |
+| :-- | :-- |
+| **[Qaid](https://github.com/a-elhaag/qaid)** <br> `live` | Two AI readers extract every receipt. A fusion step reconciles them. Checks flag the odd ones for an accountant. [qaid-bay.vercel.app](https://qaid-bay.vercel.app) |
+| **[pyhusk](https://github.com/a-elhaag/pyhusk)** <br> `open source` | Prunes a FastAPI monorepo into minimal per-service Docker images with static import analysis. |
+| **[glyphed.js](https://github.com/a-elhaag/glyphed.js)** <br> `npm` | Zero-dependency library that draws text as animated hand-drawn SVG. |
+| **[Drift CLI](https://github.com/a-elhaag/drift-cli)** <br> `open source` | Natural language to shell commands with local LLMs, risk scoring and undo. |
+| **[Biomass Model](https://github.com/a-elhaag/Biomass-Pyrolysis-Forward---Inverse-Model)** <br> `research` | Forward and inverse ML for pyrolysis yields. Built at HUST. |
+| **Auscope** <br> `private` | AI usage observability platform with a multi-provider Python SDK. |
+
+<br>
+
+### Toolbox
+
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Q%23-000000?style=flat-square&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=white"/>
-
-<!-- Frontend & Mobile -->
-<img src="https://img.shields.io/badge/Vue%203-000000?style=flat-square&logo=vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React%20Native-000000?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwindcss&logoColor=white"/>
-
-<!-- Backend -->
+<img src="https://img.shields.io/badge/React%20Native-000000?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue%203-000000?style=flat-square&logo=vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure%20Functions-000000?style=flat-square&logo=azurefunctions&logoColor=white"/>
-
-<!-- Cloud & Deployment -->
+<img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-000000?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure%20AI%20Foundry-000000?style=flat-square&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Serverless-000000?style=flat-square&logo=serverless&logoColor=white"/>
-
-<!-- Databases -->
+<img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Neo4j-000000?style=flat-square&logo=neo4j&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white"/>
 
-<!-- AI Tools -->
-<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=graphql&logoColor=white"/>
+<br>
 
-<!-- Blockchain -->
-<img src="https://img.shields.io/badge/zkSync-000000?style=flat-square&logo=ethereum&logoColor=white"/>
+### Activity
 
-<!-- Tools -->
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/PlantUML-000000?style=flat-square&logo=plantuml&logoColor=white"/>
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
-
-</div>
-
-
----
-
-## 📈 Activity Graph
 <div align="center">
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=a-elhaag&theme=github-dark&hide_border=true)
 
 </div>
 
----
+<br>
 
-## 🚀 About Me
-I’m a **Software Engineer** passionate about building real-world applications that span mobile, web, cloud, and AI.  
+### Published
 
-I specialize in creating **intelligent backends, cross-platform mobile apps, and scalable cloud systems** using **Vue 3, React Native, Next.js, FastAPI, and Azure**. I also have experience with **graph databases (Neo4j)** and blockchain development (**Solidity, zkSync**).  
+- Cancer Treatment Protocol Advisor: Mobile Application Sets the Treatment Regimens
+- An Integrated IoT Smart Cane for the Blind and Visually Impaired Individuals
 
-I enjoy taking projects from idea to production—mixing design, engineering, and experimentation to build things people actually use.  
-
----
-
-## 🤝 Connect with Me
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anaselhaag)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/a.elhaag)
-
-</div>
-
----
+<br>
 
 <div align="center">
 
-**Thanks for visiting my profile!**  
-Let’s connect, collaborate, or brainstorm something exciting.  
+[LinkedIn](https://linkedin.com/in/anaselhaag) · [Website](https://anaselhaag.com) · [X](https://x.com/a.elhaag) · anaselhaag@outlook.com
 
 </div>
