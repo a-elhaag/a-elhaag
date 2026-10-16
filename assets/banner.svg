@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+<defs><clipPath id="c"><rect x="0" y="150" width="900" height="44"/></clipPath></defs>
+<style>
+.s{font-family:Georgia,'Times New Roman',serif}
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+@keyframes f{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes t{from{transform:translateX(0)}to{transform:translateX(-1100px)}}
+.n{opacity:0;animation:f .8s ease .2s forwards}
+.l{opacity:0;animation:f .8s ease .5s forwards}
+.k{animation:t 24s linear infinite}
+</style>
+<rect width="900" height="220" fill="#FFFFFF"/>
+<text x="50" y="100" class="s n" font-size="58" font-weight="700" fill="#2F3338">Anas Abuelhaag</text>
+<text x="52" y="132" class="m l" font-size="14" fill="#8A837C">cairo, egypt</text>
+<line x1="50" y1="152" x2="850" y2="152" stroke="#E6E1D8"/>
+<line x1="50" y1="194" x2="850" y2="194" stroke="#E6E1D8"/>
+<g clip-path="url(#c)"><g class="k m" font-size="15" fill="#B8860B" letter-spacing="1">
+<text x="50" y="179" textLength="1100" lengthAdjust="spacing">FULL-STACK AI ENGINEER  ·  LLM SYSTEMS  ·  AGENTS  ·  AZURE  ·  WEB  ·  MOBILE  ·  CLOUD  ·  </text>
+<text x="1150" y="179" textLength="1100" lengthAdjust="spacing">FULL-STACK AI ENGINEER  ·  LLM SYSTEMS  ·  AGENTS  ·  AZURE  ·  WEB  ·  MOBILE  ·  CLOUD  ·  </text>
+</g></g>
+</svg>

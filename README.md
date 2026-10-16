@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Anas Abuelhaag, Full-Stack AI Engineer" src="assets/banner-light.svg" width="100%">
-</picture>
+<img alt="Anas Abuelhaag, Full-Stack AI Engineer" src="assets/banner.svg" width="100%">
 
 </div>
 
